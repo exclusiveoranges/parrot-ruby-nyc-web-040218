@@ -5,6 +5,9 @@
 require_relative '../parrot.rb'
 
 def parrot(string = "Squawk!")
+  puts string
+  string
+end
 
 
 
